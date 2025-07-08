@@ -1,0 +1,13 @@
+{
+  "name": "chatbot-lospibes",
+  "version": "1.0.0",
+  "description": "Bot para dividir gastos en WhatsApp con Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.31.0"
+  }
+}
